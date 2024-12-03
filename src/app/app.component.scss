@@ -1,0 +1,21 @@
+.main{
+    width: 100%;
+    display: flex;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+}
+.form-data{
+    display: flex;
+     gap: 30px;
+    }
+input{
+    padding: 4px;
+}
+.item{
+    display: flex;
+    gap: 10px;
+}
